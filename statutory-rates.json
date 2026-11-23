@@ -1,0 +1,36 @@
+{
+  "version": "2026-11",
+  "note": "Edit this file when GRA / SSNIT change rates, then publish it. Apps sync it when online. ssE/ssR = SSNIT employee/employer % of basic. bands = [width, rate%] per month; width 0 = everything above.",
+  "ssE": 5.5,
+  "ssR": 13,
+  "bands": [
+    [
+      490,
+      0
+    ],
+    [
+      110,
+      5
+    ],
+    [
+      130,
+      10
+    ],
+    [
+      3166.67,
+      17.5
+    ],
+    [
+      16000,
+      25
+    ],
+    [
+      30520,
+      30
+    ],
+    [
+      0,
+      35
+    ]
+  ]
+}
